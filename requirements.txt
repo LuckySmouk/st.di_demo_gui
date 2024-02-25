@@ -1,0 +1,5 @@
+diffusers
+streamlit
+xformers
+torch==2.2.0
+torchvision==1.16.0
